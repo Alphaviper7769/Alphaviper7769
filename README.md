@@ -14,12 +14,14 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- A passionate Self-taught Full Stack Developer
 - Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Currently learning Deep Learning by Self
+- Personal website [link]()
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1nfqlV-uS9w-zJzLOis0JsVhmRXxsDWVn/view?usp=drive_link)
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)

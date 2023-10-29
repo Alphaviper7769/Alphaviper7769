@@ -2,26 +2,35 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="./resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
 
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "./resources/img/about_me.svg" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture>
+  <source media="(max-width: 767px)" srcset="">
+  <img align="right" alt="" src="./assets/mdImages/programming.svg" width=300px>
+</picture>
 
 <br>
 
-- A passionate Self-taught Full Stack Developer
-- Playing CTF's at spare time
-- Currently learning Deep Learning by Self
-- Personal website [link]()
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1nfqlV-uS9w-zJzLOis0JsVhmRXxsDWVn/view?usp=drive_link)
+
+- Hello, and welcome to my GitHub profile! My name is Aayush Raturi, and I am a self-taught Programmer with a passion for creating something new. 
+
+
+- As a self-taught developer, I have taken the initiative to learn the latest technologies and techniques for creating cool stuff.
+
+- My portfolio on GitHub reflects my dedication to constantly learning and improving as a developer. I am always on the lookout for new challenges that will push me out of my comfort zone and help me grow my skills.
+
+- I encourage you to take a look at my work on <a href="">Frontend Mentor</a>, where I have completed several challenges to showcase my abilities.
+
+- I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:aayushraturi@gmail.com">aayushraturi@gmail.com</a>
+
+- Thank you for visiting my profile, and I look forward to connecting with you!
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
